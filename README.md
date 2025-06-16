@@ -1,7 +1,7 @@
 ## Hi there 👋
 Just a fellow learner
 Contact me through mail:abhitml4@gmail.com
-;)
+;
 
 <!--
 **Pixiedust3/Pixiedust3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
