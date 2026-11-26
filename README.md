@@ -1,5 +1,12 @@
-# 💫 About Me:
-# Hi, I'm Abhinab<br><br>I'm a software engineer usually working on projects or reading books related to low level systems<br>- 🔭 Currently working on: [project]<br>- 🌱 Currently learning: [e.g. kernel development / compilers / OS internals]<br>- 🛠️ Tools: [C / C++ / CMake]<br>- 📫 Reach me at: abhitml4gmail.com or linkedin
+### 💫 About Me
+
+Hi, I'm Abhinab 👋  
+I'm a software engineer who spends most of my time building projects or reading books on low-level systems.
+
+- 🔭 **Currently working on:** [project]
+- 🌱 **Currently learning:** [e.g., kernel development / compilers / OS internals]
+- 🛠️ **Tools:** C / C++ / CMake
+- 📫 **Reach me at:** [abhitml4@gmail.com](mailto:abhitml4@gmail.com) or [LinkedIn](your-linkedin-url)
 
 
 ## 🌐 Socials:
